@@ -10,12 +10,12 @@ h1 {
 
 nav {
   text-align: center;
+  display: block;
 
 }
 
 nav {
   background-color: grey;
-  display: block;
 }
 
 p {
