@@ -33,6 +33,6 @@ nav a {
   background-color: red;
   display: block;
   float: left;
-  margin-left: 25%;
+  margin: 25%;
   margin: auto;
 }
