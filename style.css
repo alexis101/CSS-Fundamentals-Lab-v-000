@@ -10,10 +10,10 @@ h1 {
 
 nav {
   text-align: center;
-  width: 100%;
+  
 }
 
-nav.about {
+nav {
   background-color: grey;
   padding : 10px 0 10px 0;
 }
