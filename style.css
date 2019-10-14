@@ -15,7 +15,8 @@ nav {
 
 nav a {
   background-color: grey;
-  
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #featured-property p {
