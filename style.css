@@ -10,12 +10,12 @@ h1 {
 
 nav {
   text-align: center;
-  
+
 }
 
 nav {
   background-color: grey;
-  padding : 10px 0 10px 0;
+  display: run-in;
 }
 
 p {
