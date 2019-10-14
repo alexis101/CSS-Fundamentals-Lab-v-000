@@ -29,6 +29,10 @@ nav a {
   text-align: center;
 }
 
+#featured-property figcaption{
+  font-size-adjust: 0.58;
+}
+
 #details div {
   background-color: red;
   display: block;
