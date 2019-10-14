@@ -29,7 +29,7 @@ p {
   text-align: center;
 }
 
-#details {
+#details div {
   background-color: red;
   display: inline-block;
 }
