@@ -32,5 +32,6 @@ p {
 #details div {
   background-color: red;
   display: block;
+  margin: auto;
 
 }
